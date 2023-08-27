@@ -1,0 +1,35 @@
+body {
+  background-color: #99A98F;
+}
+
+hr {
+  border-style: none;
+  width: 100%;
+  border-top: 5px dotted;
+  border-top-color: #D6E8DB;
+}
+
+h1 {
+  color: #C1D0B5;
+}
+h3 {
+  color: #C1D0B5;
+}
+th {
+  color: #C1D0B5;
+}
+p {
+  text-align: center;
+}
+img {
+  background-color: #99A98F;
+}
+.titlu {
+  margin: 40px auto;
+  margin-left: 550px
+}
+.carti {
+  margin-left: 850px;
+}
+.evenimente {margin-left: 850px}
+.skill {margin-left: 800px}
